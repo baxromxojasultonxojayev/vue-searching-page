@@ -26,7 +26,7 @@ export default {
           id: 'official-site',
           title: `Najot ta'lim`,
           description: `Ushbu oquv markazda turli xil yo'nalishlar mavjud`,
-          link: 'http://vuejs.org'
+          link: 'https://najottalim.uz/'
         },
         {
           id: 'official-site',
